@@ -5,6 +5,10 @@ body {
     opacity: 1;
     transition-duration: 0.7s;
     transition-property: opacity;
+    background-image: url("https://img.freepik.com/premium-photo/aerial-top-view-forest-natural-park-background_51195-3369.jpg?w=2000");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 body.fade {
