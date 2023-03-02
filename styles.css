@@ -17,7 +17,7 @@ hr {
 
 }
 header {
-    background-color: #1930b3;
+    background-color: #D2691E;
     color: #fff;
     padding: 10px;
     font-family: 'Courier New', Courier, monospace;
@@ -71,7 +71,7 @@ b {
 }
 
 footer {
-    background-color: #1930b3;
+    background-color: #D2691E;
     color: #fff;
     padding: 10px;
     font-family: 'Courier New', Courier, monospace;
@@ -83,6 +83,4 @@ footer {
     height:auto; 
     margin-top:40px;
     width:100%;
-    border: 2px solid white;
-    border-radius: 20px;
 }
