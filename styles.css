@@ -23,7 +23,7 @@ header {
     font-family: 'Courier New', Courier, monospace;
     text-shadow: 2px 2px 5px black;
     border: 2px solid white;
-    border-radius: 5px;
+    border-radius: 20px;
 }
 
 h1 {
