@@ -24,7 +24,6 @@ header {
     text-shadow: 2px 2px 5px black;
     border: 2px solid white;
     border-radius: 20px;
-    padding: 20px;
 }
 
 h1 {
@@ -83,5 +82,7 @@ footer {
     position: fixed; 
     height:auto; 
     margin-top:40px;
-    width:100%; 
+    width:100%;
+    border: 2px solid white;
+    border-radius: 20px;
 }
