@@ -5,6 +5,9 @@ body {
     opacity: 1;
     transition-duration: 0.7s;
     transition-property: opacity;
+    background-image: url("background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 body.fade {
@@ -53,34 +56,45 @@ main {
 h2 {
     margin-top: 0;
     font-size: 25px;
+    font-family: Verdana, Sans-serif;
+    color: #fff;
 }
 
 p {
     font-size: 20px;
-    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    font-family: Verdana, Sans-serif;
+    -webkit-text-stroke: 1px #fff;
+    text-shadow:
+    -1px -1px 0 black,
+    1px -1px 0 black,
+    -1px 1px 0 black,
+    1px 1px 0 black
+    #fff;
 }
 
 a {
     font-size: 20px;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: Verdana, Sans-serif;
 }
 
 b {
     font-size: 20px;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: Verdana, Sans-serif;
 }
 
 footer {
     background-color: #D2691E;
     color: #fff;
-    padding: 10px;
+    padding: 20px;
+    font-size: x-large;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
     position: static;
     bottom: 0;
     text-shadow: 2px 2px 5px black;
     position: fixed; 
-    height:auto; 
+    height:auto;
     margin-top:40px;
     width:100%;
 }
