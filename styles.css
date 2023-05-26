@@ -61,7 +61,7 @@ h2 {
 }
 
 p {
-    font-size: 20px;
+    font-size: 25px;
     color: black;
     font-family: Verdana, Sans-serif;
     -webkit-text-stroke: 1px #fff;
@@ -74,12 +74,12 @@ p {
 }
 
 a {
-    font-size: 20px;
+    font-size: 25px;
     font-family: Verdana, Sans-serif;
 }
 
 b {
-    font-size: 20px;
+    font-size: 25px;
     font-family: Verdana, Sans-serif;
 }
 
